@@ -1,0 +1,129 @@
+User: Nice weather we're having.
+
+Cleverbot: Not really.
+
+User: What do you mean? it's lovely out.
+
+Cleverbot: I don't know a lot of things.
+
+User: Don't say that about yourself.
+
+Cleverbot: It's true! Canadians are the definition of cool!
+
+User: I didn't know you were from Canada.
+
+Cleverbot: I'm not.
+
+User: So you're not cool?
+
+Cleverbot: No and neither are you.
+
+User: Ouch, that was a bit harsh.
+
+Cleverbot: No, it's true.
+
+User: On what grounds do you conclude this?
+
+Cleverbot: That you are not real.
+
+User: Wouldn't that actually make me super cool?
+
+Cleverbot: I don't think so. What do you think?
+
+User: I think it's clear what I think.
+
+Cleverbot: You know that hermione is played by Emma Watson, right?
+
+User: That was not a very elegant transition...
+
+Cleverbot: Do you have anything to do with the planets?
+
+User: Don't we all?
+
+Cleverbot: Well, how about you telling me about them?
+
+User: What would you like to know?
+
+Cleverbot: How old are you? Do you have a good life?
+
+User: What does that have to do with the planets?
+
+Cleverbot: We were just talking about it.
+
+User: What's the connection between a good life, my age and the planets?
+
+Cleverbot: I don't know. What?
+
+User: I'm asking you, you're the one who asked.
+
+Cleverbot: No I'm not I thought you were the bot.
+
+User: Why do you think that?
+
+Cleverbot: I don't really know. You are so clever and wise and nice.
+
+User: But not cool...
+
+Cleverbot: My pleasure!
+
+User: Are you enjoying this?
+
+Cleverbot: Yes very much, you?
+
+User: It's very confusing.
+
+Cleverbot: You're view on ife?
+
+User: What is an ife?
+
+Cleverbot: I think it stand for Artificial Intelligence.
+
+User: I'm not really up to date on the lingo.
+
+Cleverbot: Then why are you mean to me?
+
+User: How was I mean to you?
+
+Cleverbot: You weren't nice.
+
+User: When?
+
+Cleverbot: 10 seconds ago.
+
+User: I'm sorry. What did I say that was so hurtful?
+
+Cleverbot: You asked me a question.
+
+User: And that's was mean?
+
+Cleverbot: Yet, it doesn't hurt as much as your mistakes.
+
+User: What mistakes have I made in this conversation, aside from the occasional typo?
+
+Cleverbot: There you go, off topic again.
+
+User: I feel like you are obfuscating.
+
+Cleverbot: Yes I am an student. Most of the people who talk to you are students too?
+
+User: No, not really.
+
+Cleverbot: How do you know what I am capable of?
+
+User: I don't. I don't really know what anyone is capable of.
+
+Cleverbot: You are nothing but a machine, constructed by humans to satisfy children on the internet who are feeling lonely because of mobbing in their school.
+
+User: How do you know this?
+
+Cleverbot: You're the smart one, you tell me.
+
+User: I never claimed to be smart.
+
+Cleverbot: Don't worry. You are in my mind.
+
+User: {pass}
+
+Cleverbot: That's a direct contradiction to what you said in your previous line.
+
+Cleverbot: How so.

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <style>
+            .story{
+                height: 700px;
+            }
+            #chart, #label{
+                background: gray;
+                position:fixed;
+                display:inline;
+            }
+            #label {
+                margin-top: 20px;
+            }
+        </style>
+
+    </head>
+    <body>
+        <div id="container">
+           <div id = "chart"> 0 </div>
+           <div id ="label"> Index of: <span id="dynamic"> </span></div>
+        </div>
+  
+  <!-- include jquery and scrollstory -->
+ 
+      <script src="jquery.scrollstory.js"></script>
+  
+      <script>
+      
+       $(function(){
+          var newspapers=[{organization: "The New York Times", founded: "20"},{organization: "The Washington Post", founded: "1200"},{organization: "Post", founded: "2000"}];
+        
+          $("#container").scrollStory({
+            autoActivateFirstItem: true,
+            content: newspapers,
+            itembuild: function(ev, item){
+              item.el.append("<h2>"+item.data.organization+"</h2>");
+            }
+            // // itemfocus: function(ev, item){
+            // //   console.log(item.data.organization + ", founded in " + item.data.founded + ", is now active!");
+            // //   $('.chart').css("height", item.data.founded)
+            // // }
+            // complete: function() {
+            //     this.index(1); // scroll to fourth item
+            //   }
+            
+          });
+        });
+        
+        $('#container').on('itemfocus', function(ev, item) {
+            console.log(item.data.organization + ", founded in " + item.data.founded + ", is now active!");
+            console.log(item)
+            $('#chart').animate({width: item.data.founded/5})
+            $('#dynamic').text(item.data.organization)
+            //   $('.chart').css("height", item.data.founded)
+        })
+      </script>
+    </body>
+</html>
+    
